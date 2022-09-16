@@ -1,0 +1,10 @@
+.env
+Include/
+Lib/
+museos
+salas_cine
+Scripts
+bibliotecas
+info_cultural.log
+pyvenv.cfg
+InstalledPackages.txt
