@@ -50,7 +50,7 @@ Donde:
 - **venv **es el módulo de python que ejecuta esta acción.
 
 
-¡Tu entorno virtual ha sido creado! :tw-270c:
+¡Tu entorno virtual ha sido creado!
 Allí encontrarás carpetas como *"Include"*, *"Lib"*, *"Scripts"* y archivos como *"pyenv.cfg"* que sirven de base para el correcto funcionamiento del entorno virtual.
 
 ### Activación del entorno virtual
@@ -157,4 +157,4 @@ Para ejecutar el programa debes:
 Debes colocar una ruta local con una estructura similar a la siguiente:
 		C:/Users/User/Desktop/Proyecto/
 
-Con estos pasos, el programa se ejecutará y mostrará **"Done"** cuando haya finalizado :tw-270c:
+Con estos pasos, el programa se ejecutará y mostrará **"Done"** cuando haya finalizado
