@@ -5,7 +5,7 @@ Mediante este programa desarrollado en Python se obtiene, procesa y luego carga 
 > Por el momento solo se extraen y cargan los datos de museos, bibliotecas y salas de cine, para 12 columnas de interés más una columna con la fecha de cargue.
 Sigo trabajando en el mejoramiento del contenido para ampliar su alcance y optimizar su funcionamiento (16/09/2022) 👩‍💻
 
-##Contenido
+## Contenido
 Este proyecto contiene los siguientes archivos:
 1. **web_info.py** en el cual reposa todo el código que permite hacer la extracción, procesamiento y cargue de información en postgresql.
 2. **InstalledPackages.txt** donde se listan las librerías usadas y su versión.
